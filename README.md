@@ -1,16 +1,50 @@
-### Hi there 👋
+### Hi! I´m Facundo Arechaga 👋
 
-<!--
-**Facunare/Facunare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <img src="https://img.freepik.com/vector-premium/imagen-dibujos-animados-hongo-palabra-hongo_587001-200.jpg?w=2000" alt="Perfil de Facundo Arechaga" style="width: 200px; height: 200px; border-radius: 100%;">
+</div>
 
-Here are some ideas to get you started:
+I´m a **Full Stack Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an 18-year-old student and full-stack web developer. Passionate about computer science, I have experience in various projects and am completing my training as a Computer Technician. Additionally, I am a champion of Samsung Solve For Tomorrow 2023. I am embarking on my university career, constantly seeking to continue acquiring knowledge and contribute to technological progress.
+
+## About me
+- 🏆 Samsung Solve For Tomorrow 2023 Champion - CitySensor
+- I'm 1️⃣8️⃣ years old
+- 📍 Buenos Aires, Argentina
+- +5️⃣ projects developed
+- +2️⃣ years of experience
+
+## Technologies
+- Python
+- HTML
+- CSS
+- JavaScript
+- ReactJS
+- SQL
+- Java
+- MongoDB
+- Django
+
+## Lenguages
+- Native Spanish
+- Intermediate English
+
+## Academic data
+- **2018-2023** | *COMPUTER TECHNICIAN* | Secondary degree - Technical School 36 D.E. 15 - Alte. Guillermo Brown Computer-oriented (in progress)
+  - Member of Excelencia en acción - Average 9.5 | Selected for standing out as one of the 700 students with a secondary average of 9 or higher in CABA
+  - Obtained a scholarship for the Torcuato Di Tella University.
+- **2020-2022** | *Aprende Programando* | GCBA Web Development and Mobile Applications Course
+- **2023** | *Generacion T* | Full-Stack Junior Web Development Course
+- **2023** | *Universidad de Buenos Aires (UBA)* | Complete CBC for Computer Science Graduate
+- **2023** | *Samsung Solve For Tomorrow 2023* | Winner with the CitySensor project
+
+## Social Media
+- 🔴[Youtube](https://www.youtube.com/channel/UCcCoUe7ajmU6CpiLkm54ccA)
+- 📷[Instagram](https://www.instagram.com/facunare/)
+- </>[Github](https://github.com/Facunare/)
+- 💼[Linkedin](https://www.linkedin.com/in/facundo-arechaga-a0a525235/)
+
+## Contact
+- 📧arechaga.facundoet36@gmail.com
+- 📞11-5769-1635
