@@ -1,8 +1,8 @@
 ### Hi! I´m Facundo Arechaga 👋
 
-<div>
-  <img src="https://img.freepik.com/vector-premium/imagen-dibujos-animados-hongo-palabra-hongo_587001-200.jpg?w=2000" alt="Perfil de Facundo Arechaga" style="width: 200px; height: 200px; border-radius: 100%;">
-</div>
+
+<img src="Samsung_Adelanto-35 (1) (1).jpg" alt="Perfil de Facundo Arechaga" style="width: auto; height: 300px; border-radius: 100%;">
+
 
 I´m a **Full Stack Developer**
 
