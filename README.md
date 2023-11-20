@@ -1,10 +1,9 @@
-### Hi! I´m Facundo Arechaga 👋
-
+# Hi! I´m Facundo Arechaga 👋
 
 <img src="Samsung_Adelanto-35 (1) (1).jpg" alt="Perfil de Facundo Arechaga" style="width: auto; height: 300px; border-radius: 100%;">
 
 
-I´m a **Full Stack Developer**
+## I´m a **Full Stack Developer**
 
 I am an 18-year-old student and full-stack web developer. Passionate about computer science, I have experience in various projects and am completing my training as a Computer Technician. Additionally, I am a champion of Samsung Solve For Tomorrow 2023. I am embarking on my university career, constantly seeking to continue acquiring knowledge and contribute to technological progress.
 
