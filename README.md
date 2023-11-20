@@ -47,3 +47,5 @@ I am an 18-year-old student and full-stack web developer. Passionate about compu
 ## Contact
 - 📧arechaga.facundoet36@gmail.com
 - 📞11-5769-1635
+
+<a href="CV - Facundo Arechaga (7).pdf" style="background-color: green;">Download CV</a>
