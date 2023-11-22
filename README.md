@@ -5,7 +5,7 @@
 
 ## I´m a **Full Stack Developer**
 
-I am an 18-year-old student and full-stack web developer. Passionate about computer science, I have experience in various projects and am completing my training as a Computer Technician. Additionally, I am a champion of Samsung Solve For Tomorrow 2023. I am embarking on my university career, constantly seeking to continue acquiring knowledge and contribute to technological progress.
+I am an 18-year-old student and full-stack web developer. Passionate about computer science, I have experience in several projects and I am completing my training as a Computer Technician. Additionally, I am the winner of Samsung Solve For Tomorrow 2023. I am embarking on my university career, constantly seeking to continue acquiring knowledge and contribute to technological progress.
 
 ## About me
 - 🏆 Samsung Solve For Tomorrow 2023 Champion - CitySensor
@@ -25,7 +25,7 @@ I am an 18-year-old student and full-stack web developer. Passionate about compu
 - MongoDB
 - Django
 
-## Lenguages
+## Languages
 - Native Spanish
 - Intermediate English
 
