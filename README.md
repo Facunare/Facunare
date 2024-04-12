@@ -44,7 +44,7 @@ I am an 18-year-old student and full-stack web developer. Passionate about compu
 ## Social Media
 <a href="https://www.linkedin.com/in/facundo-arechaga-a0a525235/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Facundo%20Arechaga-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.youtube.com/channel/UCcCoUe7ajmU6CpiLkm54ccA"><img alt="Youtube" src="https://img.shields.io/badge/Facundo Arechaga-blue?style=flat-square&logo=youtube"></a>
-<a href="https://www.instagram.com/facunare/"><img alt="Instagram" src="https://img.shields.io/badge/facu.arechaga_-blue?style=flat-square&logo=instagram"></a>  
+<a href="https://www.instagram.com/facu.arechaga_/"><img alt="Instagram" src="https://img.shields.io/badge/facu.arechaga_-blue?style=flat-square&logo=instagram"></a>  
 <a href="https://github.com/Facunare/"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Facunare-blue?style=flat-square&logo=github"></a>  
 
 ## Contact
